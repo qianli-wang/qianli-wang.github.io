@@ -1,9 +1,9 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Qianli Wang — Bio-LLM Security and Agent Security"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,44 +15,71 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+<div class="intro-block">
+  <p class="intro-block__lead">I am <strong>Qianli Wang</strong>, a Ph.D. student in Computer Science and Technology at <strong>School A</strong>. I received my master's degree from <strong>School B</strong>.</p>
+  <p>My research focuses on the security of biological large language models and autonomous agents. I am particularly interested in <strong>bio-LLM security</strong> and <strong>agent security</strong>.</p>
+  <div class="research-tags" aria-label="Research interests">
+    <span>Bio-LLM Security</span>
+    <span>Agent Security</span>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<span class="anchor" id="publications"></span>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Publications
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<article class="publication-card">
+  <a class="publication-card__figure" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">
+    <img src="/images/when-skills-lie-agent-security.png" alt="Threat model for hidden-comment injection in LLM agent skills">
+  </a>
+  <div class="publication-card__content">
+    <p class="publication-card__eyebrow">ARXIV · 2026</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">When skills lie: Hidden-comment injection in LLM agents</a></h2>
+    <p class="publication-card__venue"><em>arXiv Preprint 2026</em></p>
+    <div class="publication-card__actions">
+      <a class="paper-link" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">Paper <span aria-hidden="true">↗</span></a>
+      <span class="show_paper_citations" data="UQ9GevAAAAAJ:u5HHmVD_uO8C"></span>
+    </div>
+  </div>
+</article>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<span class="anchor" id="software"></span>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Software & Copyright
+
+<article class="software-card">
+  <div class="software-card__header">
+    <div>
+      <p class="software-card__eyebrow">SOFTWARE COPYRIGHT · OPEN SOURCE</p>
+      <h2><a href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">default-app</a></h2>
+    </div>
+    <span class="software-card__stars" aria-label="69 GitHub stars">★ 69</span>
+  </div>
+  <p>A Windows utility for setting and maintaining default applications for file extensions, with shared application-rule management.</p>
+  <a class="project-link" href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">View on GitHub <span aria-hidden="true">↗</span></a>
+</article>
+
+<span class="anchor" id="education"></span>
+
+# Education
+
+<div class="education-list">
+  <div class="education-item">
+    <span class="education-item__marker" aria-hidden="true"></span>
+    <div>
+      <p class="education-item__status">CURRENT</p>
+      <h2>Ph.D. in Computer Science and Technology</h2>
+      <p>School A</p>
+    </div>
+  </div>
+  <div class="education-item">
+    <span class="education-item__marker" aria-hidden="true"></span>
+    <div>
+      <p class="education-item__status">MASTER'S DEGREE</p>
+      <h2>Master's Degree</h2>
+      <p>School B</p>
+    </div>
+  </div>
+</div>
