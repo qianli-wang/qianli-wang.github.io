@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Qianli Wang — Bio-LLM Security and Agent Security"
+excerpt: "Qianli Wang - Bio-LLM Security and Agent Security"
 author_profile: true
 redirect_from:
   - /about/
@@ -18,7 +18,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <div class="intro-block">
-  <p class="intro-block__lead">I am <strong>Qianli Wang</strong>, a Ph.D. student in Computer Science and Technology at <strong>School A</strong>. I received my master's degree from <strong>School B</strong>.</p>
+  <p class="intro-block__lead">I am <strong>Qianli Wang</strong>, currently pursuing a Ph.D. in Computer Science and Technology at <strong>Shandong University</strong>. I received my master's degree from the <strong>University of Macau</strong>.</p>
   <p>My research focuses on the security of biological large language models and autonomous agents. I am particularly interested in <strong>bio-LLM security</strong> and <strong>agent security</strong>.</p>
   <div class="research-tags" aria-label="Research interests">
     <span>Bio-LLM Security</span>
@@ -35,11 +35,11 @@ redirect_from:
     <img src="/images/when-skills-lie-agent-security.png" alt="Threat model for hidden-comment injection in LLM agent skills">
   </a>
   <div class="publication-card__content">
-    <p class="publication-card__eyebrow">ARXIV · 2026</p>
-    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">When skills lie: Hidden-comment injection in LLM agents</a></h2>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">When Skills Lie: Hidden-Comment Injection in LLM Agents</a></h2>
+    <p class="publication-card__authors"><strong>Qianli Wang</strong>, Boyang Ma, Minghui Xu, Yue Zhang</p>
     <p class="publication-card__venue"><em>arXiv Preprint 2026</em></p>
     <div class="publication-card__actions">
-      <a class="paper-link" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">Paper <span aria-hidden="true">↗</span></a>
+      <a class="paper-link" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">Paper</a>
       <span class="show_paper_citations" data="UQ9GevAAAAAJ:u5HHmVD_uO8C"></span>
     </div>
   </div>
@@ -52,13 +52,13 @@ redirect_from:
 <article class="software-card">
   <div class="software-card__header">
     <div>
-      <p class="software-card__eyebrow">SOFTWARE COPYRIGHT · OPEN SOURCE</p>
+      <p class="software-card__eyebrow">SOFTWARE COPYRIGHT &middot; OPEN SOURCE</p>
       <h2><a href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">default-app</a></h2>
     </div>
-    <span class="software-card__stars" aria-label="69 GitHub stars">★ 69</span>
+    <span class="software-card__stars" aria-label="69 GitHub stars">&#9733; 69</span>
   </div>
   <p>A Windows utility for setting and maintaining default applications for file extensions, with shared application-rule management.</p>
-  <a class="project-link" href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">View on GitHub <span aria-hidden="true">↗</span></a>
+  <a class="project-link" href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">View on GitHub <span aria-hidden="true">&nearr;</span></a>
 </article>
 
 <span class="anchor" id="education"></span>
@@ -71,7 +71,7 @@ redirect_from:
     <div>
       <p class="education-item__status">CURRENT</p>
       <h2>Ph.D. in Computer Science and Technology</h2>
-      <p>School A</p>
+      <p>Shandong University</p>
     </div>
   </div>
   <div class="education-item">
@@ -79,7 +79,7 @@ redirect_from:
     <div>
       <p class="education-item__status">MASTER'S DEGREE</p>
       <h2>Master's Degree</h2>
-      <p>School B</p>
+      <p>University of Macau</p>
     </div>
   </div>
 </div>
