@@ -71,7 +71,6 @@ redirect_from:
     <div>
       <p class="honor-item__status">NATIONAL GRAND PRIZE &middot; 2025</p>
       <h2>NewStar CTF 2025</h2>
-      <p>National Cybersecurity Capture-the-Flag Competition</p>
     </div>
   </div>
 </div>
