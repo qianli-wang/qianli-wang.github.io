@@ -172,6 +172,7 @@
 }
 
 .software-card__eyebrow,
+.honor-item__status,
 .education-item__status {
     color: #52739b;
     font-size: 0.72rem !important;
@@ -257,12 +258,14 @@
     padding: 0.38rem 0.65rem;
 }
 
+.honors-list,
 .education-list {
     border-left: 2px solid #c8d9eb;
     margin: 1.25rem 0 2.5rem 0.55rem;
     padding-left: 1.45rem;
 }
 
+.honor-item,
 .education-item {
     margin-bottom: 1.65rem;
     position: relative;
@@ -279,6 +282,7 @@
     }
 }
 
+.honor-item__marker,
 .education-item__marker {
     background: #224b8d;
     border: 3px solid #fff;

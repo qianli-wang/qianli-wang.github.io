@@ -55,11 +55,26 @@ redirect_from:
       <p class="software-card__eyebrow">SOFTWARE COPYRIGHT &middot; OPEN SOURCE</p>
       <h2><a href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">default-app</a></h2>
     </div>
-    <span class="software-card__stars" aria-label="69 GitHub stars">&#9733; 69</span>
+    <span class="software-card__stars" aria-label="70 GitHub stars">&#9733; 70</span>
   </div>
   <p>A Windows utility for setting and maintaining default applications for file extensions, with shared application-rule management.</p>
   <a class="project-link" href="https://github.com/qianli-wang/default-app" target="_blank" rel="noopener">View on GitHub <span aria-hidden="true">&nearr;</span></a>
 </article>
+
+<span class="anchor" id="honors"></span>
+
+# Honors & Awards
+
+<div class="honors-list">
+  <div class="honor-item">
+    <span class="honor-item__marker" aria-hidden="true"></span>
+    <div>
+      <p class="honor-item__status">NATIONAL GRAND PRIZE &middot; 2025</p>
+      <h2>NewStar CTF 2025</h2>
+      <p>National Cybersecurity Capture-the-Flag Competition</p>
+    </div>
+  </div>
+</div>
 
 <span class="anchor" id="education"></span>
 

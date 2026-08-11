@@ -9,5 +9,8 @@ main:
   - title: "Software"
     url: "/#software"
 
+  - title: "Honors"
+    url: "/#honors"
+
   - title: "Education"
     url: "/#education"
