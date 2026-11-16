@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Patents"
+    url: "/#patents"
+
   - title: "Software"
     url: "/#software"
 
@@ -14,3 +17,4 @@ main:
 
   - title: "Education"
     url: "/#education"
+

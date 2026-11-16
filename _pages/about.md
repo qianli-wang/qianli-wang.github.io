@@ -31,6 +31,21 @@ redirect_from:
 # Publications
 
 <article class="publication-card">
+  <a class="publication-card__figure" href="/images/reconpotbench-overview.pdf" target="_blank" rel="noopener" aria-label="View the ReconPotBench overview figure">
+    <img src="/images/reconpotbench-overview.png" alt="ReconPotBench overview: benchmark construction, multi-round Linux reconnaissance, and unified evaluation" loading="lazy">
+  </a>
+  <div class="publication-card__content">
+    <h2><a href="https://arxiv.org/search/?query=ReconPotBench&amp;searchtype=title" target="_blank" rel="noopener">ReconPotBench: Evaluating LLM Honeypots in Multi-Round Linux Reconnaissance</a></h2>
+    <p class="publication-card__authors"><strong>Qianli Wang</strong>, Junchao Wu, Binkai Ou, Lidia S. Chao, Derek F. Wong</p>
+    <p class="publication-card__venue"><em>Findings of the Association for Computational Linguistics: EACL 2027</em> &middot; Accepted</p>
+    <div class="publication-card__actions">
+      <!-- Replace the temporary arXiv title-search URL with the paper's abstract URL once available. -->
+      <a class="paper-link" href="https://arxiv.org/search/?query=ReconPotBench&amp;searchtype=title" target="_blank" rel="noopener">arXiv (temporary link)</a>
+    </div>
+  </div>
+</article>
+
+<article class="publication-card">
   <a class="publication-card__figure" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=UQ9GevAAAAAJ&amp;citation_for_view=UQ9GevAAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">
     <img src="/images/when-skills-lie-agent-security.png" alt="Threat model for hidden-comment injection in LLM agent skills">
   </a>
@@ -43,6 +58,16 @@ redirect_from:
       <span class="show_paper_citations" data="UQ9GevAAAAAJ:u5HHmVD_uO8C"></span>
     </div>
   </div>
+</article>
+
+<span class="anchor" id="patents"></span>
+
+# Patents
+
+<article class="software-card">
+  <p class="software-card__eyebrow">INVENTION PATENT APPLICATION</p>
+  <h2>1 application accepted for processing</h2>
+  <!-- Add the patent title and application number when provided. -->
 </article>
 
 <span class="anchor" id="software"></span>
@@ -97,3 +122,4 @@ redirect_from:
     </div>
   </div>
 </div>
+
