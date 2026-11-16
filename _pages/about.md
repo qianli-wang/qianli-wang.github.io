@@ -107,7 +107,8 @@ redirect_from:
 <div class="education-list">
   <div class="education-item">
     <span class="education-item__marker" aria-hidden="true"></span>
-    <div>
+    <img class="education-item__logo" src="/images/shandong-university.png" alt="Shandong University emblem" width="64" height="64" loading="lazy">
+    <div class="education-item__content">
       <p class="education-item__status">CURRENT</p>
       <h2>Ph.D. in Computer Science and Technology</h2>
       <p>Shandong University</p>
@@ -115,7 +116,8 @@ redirect_from:
   </div>
   <div class="education-item">
     <span class="education-item__marker" aria-hidden="true"></span>
-    <div>
+    <img class="education-item__logo" src="/images/university-of-macau.png" alt="University of Macau emblem" width="64" height="64" loading="lazy">
+    <div class="education-item__content">
       <p class="education-item__status">MASTER'S DEGREE</p>
       <h2>Master's Degree</h2>
       <p>University of Macau</p>

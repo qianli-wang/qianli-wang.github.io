@@ -282,6 +282,23 @@
     }
 }
 
+.education-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.education-item__logo {
+    flex: 0 0 64px;
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+}
+
+.education-item__content {
+    min-width: 0;
+}
+
 .honor-item__marker,
 .education-item__marker {
     background: #224b8d;
