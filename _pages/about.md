@@ -37,7 +37,7 @@ redirect_from:
   <div class="publication-card__content">
     <h2><a href="https://arxiv.org/search/?query=ReconPotBench&amp;searchtype=title" target="_blank" rel="noopener">ReconPotBench: Evaluating LLM Honeypots in Multi-Round Linux Reconnaissance</a></h2>
     <p class="publication-card__authors"><strong>Qianli Wang</strong>, Junchao Wu, Binkai Ou, Lidia S. Chao, Derek F. Wong</p>
-    <p class="publication-card__venue"><em>Findings of the Association for Computational Linguistics: EACL 2027</em> &middot; Accepted</p>
+    <p class="publication-card__venue"><em>EACL 2027 (Findings)</em> &middot; Accepted</p>
     <div class="publication-card__actions">
       <!-- Replace the temporary arXiv title-search URL with the paper's abstract URL once available. -->
       <a class="paper-link" href="https://arxiv.org/search/?query=ReconPotBench&amp;searchtype=title" target="_blank" rel="noopener">arXiv (temporary link)</a>
@@ -66,7 +66,7 @@ redirect_from:
 
 <article class="software-card">
   <p class="software-card__eyebrow">INVENTION PATENT APPLICATION</p>
-  <h2>1 application accepted for processing</h2>
+  <h2>1 invention patent application successfully accepted</h2>
   <!-- Add the patent title and application number when provided. -->
 </article>
 
