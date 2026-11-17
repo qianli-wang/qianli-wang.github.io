@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Qianli Wang - Bio-LLM Security and Agent Security"
+excerpt: "Qianli Wang - LLM Security and Agent Security"
 author_profile: true
 redirect_from:
   - /about/
@@ -18,10 +18,11 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <div class="intro-block">
-  <p class="intro-block__lead">I am <strong>Qianli Wang</strong>, currently pursuing a Ph.D. in Computer Science and Technology at <strong>Shandong University</strong>. I received my master's degree from the <strong>University of Macau</strong>.</p>
-  <p>My research focuses on the security of biological large language models and autonomous agents. I am particularly interested in <strong>bio-LLM security</strong> and <strong>agent security</strong>.</p>
+  <p class="intro-block__lead">I am <strong>Qianli Wang</strong>, currently pursuing a Ph.D. in Computer Science and Technology at <strong>Shandong University</strong>, advised by <a href="https://yue.zyueinfosec.com/" target="_blank" rel="noopener">Prof. Yue Zhang</a>.</p>
+  <p>I received my master's degree from the <strong>University of Macau</strong>, where I was very fortunate to work with <a href="https://fic.um.edu.mo/people/derekfw/" target="_blank" rel="noopener">Prof. Derek F. Wong</a> on LLM security.</p>
+  <p>My research interests include the security of <strong>large language models</strong> and <strong>autonomous agents</strong>, as well as the broader security and safety risks arising from their use in other systems and applications, such as biosecurity risks in AI-assisted biological design.</p>
   <div class="research-tags" aria-label="Research interests">
-    <span>Bio-LLM Security</span>
+    <span>LLM Security</span>
     <span>Agent Security</span>
   </div>
 </div>

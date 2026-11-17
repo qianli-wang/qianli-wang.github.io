@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianli Wang"
-description              : "Research interests: Bio-LLM Security and Agent Security."
+description              : "Research interests: Security of LLMs and agents, and risks in their applications."
 repository               : "qianli-wang/qianli-wang.github.io"
 google_scholar_stats_use_cdn : true
 
