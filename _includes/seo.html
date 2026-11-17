@@ -72,4 +72,33 @@
 {% if site.baidu_site_verification %}
   <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
 {% endif %}
+{% if seo_description %}
+<meta name="description" content="{{ seo_description }}">
+{% endif %}
+<meta property="og:image" content="{{ '/images/qianli-wang.jpg' | absolute_url }}">
+<meta property="og:image:alt" content="Qianli Wang">
+{% if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://qianli-wang.github.io/#website",
+      "url": "https://qianli-wang.github.io/",
+      "name": "Qianli Wang",
+      "alternateName": "Qianli Wang's Homepage",
+      "about": { "@id": "https://qianli-wang.github.io/#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://qianli-wang.github.io/#person",
+      "name": "Qianli Wang",
+      "url": "https://qianli-wang.github.io/",
+      "image": "https://qianli-wang.github.io/images/qianli-wang.jpg"
+    }
+  ]
+}
+</script>
+{% endif %}
 <!-- end SEO -->
