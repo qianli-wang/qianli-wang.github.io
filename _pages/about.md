@@ -35,12 +35,11 @@ redirect_from:
     <img src="/images/reconpotbench-overview.png" alt="ReconPotBench overview: benchmark construction, multi-round Linux reconnaissance, and unified evaluation" loading="lazy">
   </a>
   <div class="publication-card__content">
-    <h2><a href="https://arxiv.org/search/?query=ReconPotBench&amp;searchtype=title" target="_blank" rel="noopener">ReconPotBench: Evaluating LLM Honeypots in Multi-Round Linux Reconnaissance</a></h2>
+    <h2><a href="https://arxiv.org/abs/2611.20528" target="_blank" rel="noopener">ReconPotBench: Evaluating LLM Honeypots in Multi-Round Linux Reconnaissance</a></h2>
     <p class="publication-card__authors"><strong>Qianli Wang</strong>, Junchao Wu, Binkai Ou, Lidia S. Chao, Derek F. Wong</p>
     <p class="publication-card__venue"><em>EACL 2027 (Findings)</em> &middot; Accepted</p>
     <div class="publication-card__actions">
-      <!-- Replace the temporary arXiv title-search URL with the paper's abstract URL once available. -->
-      <a class="paper-link" href="https://arxiv.org/search/?query=ReconPotBench&amp;searchtype=title" target="_blank" rel="noopener">arXiv (temporary link)</a>
+      <a class="paper-link" href="https://arxiv.org/abs/2611.20528" target="_blank" rel="noopener">arXiv</a>
     </div>
   </div>
 </article>
