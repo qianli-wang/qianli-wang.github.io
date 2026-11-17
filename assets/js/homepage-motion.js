@@ -16,18 +16,12 @@
       var target = document.getElementById(url.hash.slice(1));
       return target ? { link: link, target: target } : null;
     }).filter(Boolean);
-    var progress = document.createElement('div');
-    progress.className = 'reading-progress';
-    progress.setAttribute('aria-hidden', 'true');
-    document.body.appendChild(progress);
 
     function update() {
       pendingFrame = false;
       var viewport = document.documentElement.clientHeight;
       var distance = Math.max(0, document.documentElement.scrollHeight - viewport);
       var position = Math.max(0, window.scrollY || 0);
-      var fraction = distance ? Math.min(1, position / distance) : 0;
-      progress.style.transform = 'scaleX(' + fraction + ')';
       var active = sections[0];
       var masthead = document.querySelector('.masthead');
       var threshold = (masthead ? masthead.getBoundingClientRect().height : 60) + 48;
